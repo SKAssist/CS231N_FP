@@ -6,7 +6,7 @@
 
 - **Yanny Gao** – [rgao1218@stanford.edu](mailto:rgao1218@stanford.edu)  
 - **Sara Kothari** – [sarako@stanford.edu](mailto:sarako@stanford.edu)  
-- **Natalie Kuo** – [nkuo@stanford.edu](mailto:nskuo@stanford.edu)
+- **Natalie Kuo** – [nskuo@stanford.edu](mailto:nskuo@stanford.edu)
 
 ## Overview
 
