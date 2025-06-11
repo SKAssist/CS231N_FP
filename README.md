@@ -1,6 +1,6 @@
 # Diagnose and Defend: Lightweight Behavior-Aware Attention Gating for Robust Vision Transformers
 
-> **CS231n Final Project – Stanford University (Winter 2025)** 
+> **CS231n Final Project – Stanford University (Spring 2025)** 
 
 ## Overview
 
