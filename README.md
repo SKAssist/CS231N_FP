@@ -8,7 +8,7 @@
 - **Sara Kothari** – [sarako@stanford.edu](mailto:sarako@stanford.edu)  
 - **Natalie Kuo** – [nskuo@stanford.edu](mailto:nskuo@stanford.edu)
 
-## Project Deliverable
+## Project Deliverables
 - [Poster](231n_poster-3.pdf)
 - [Final Report](CS231N___Final_Report-5.pdf)
 
