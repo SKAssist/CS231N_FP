@@ -8,6 +8,10 @@
 - **Sara Kothari** – [sarako@stanford.edu](mailto:sarako@stanford.edu)  
 - **Natalie Kuo** – [nskuo@stanford.edu](mailto:nskuo@stanford.edu)
 
+## Project Deliverable
+- [Poster](231n_poster-3.pdf)
+- [Final Report](CS231N___Final_Report-5.pdf)
+
 ## Overview
 
 Vision Transformers (ViTs) achieve strong performance on clean images but are notably vulnerable to adversarial perturbations. In this project, we propose a **modular, lightweight defense pipeline** that detects, diagnoses, and mitigates adversarial attacks using behavior-aware attention gating—without modifying the base ViT model or requiring adversarial training.
